@@ -30,6 +30,6 @@
 
 
 ## 💾 Banco de Dados
-"[MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr /> 
