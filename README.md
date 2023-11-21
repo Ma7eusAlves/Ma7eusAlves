@@ -1,9 +1,9 @@
-👨‍💻 Quem Sou
-👋 Oi, meu nome é Mateus dos Santos Alves.
-💡 Atualmente embarcando na jornada do conhecimento na Alura. 
-📧 Entre em contato pelo meu email: mateus-tm@live.com.
-📱 Você também pode me chamar no meu celular: +55 (41) 99649-7298.
-🌐 Conecte-se comigo no LinkedIn e WhatsApp. Estou esperando sua mensagem lá!
+ ## 	🤖 Sobre Mim
+- 👋 Olá, me chamo Mateus dos Santos Alves.
+- 💡 Atualmente embarcando na jornada do conhecimento na Alura <a href="https://alura.com.br"></a>;
+- 📧 Email: mateus-tm@live.com;
+- 📱 Você também pode me chamar no meu celular: +55 (41) 99649-7298.
+- 🌐 Conecte-se comigo no LinkedIn e WhatsApp. Estou esperando sua mensagem lá!
 
 ## 🌐 Social
 
