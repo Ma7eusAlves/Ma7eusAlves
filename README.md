@@ -29,8 +29,7 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## ![image](https://github.com/Ma7eusAlves/Ma7eusAlves/assets/92250989/ef4f8bf0-dd61-4122-abcd-d3dcf466d635)
- Framework
+## Framework
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
