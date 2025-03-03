@@ -1,6 +1,5 @@
  ## 	🤖 Sobre Mim
 - 👋 Olá, me chamo Mateus dos Santos Alves.
-- 💡 Atualmente embarcando na jornada do conhecimento na <a href="https://alura.com.br">Alura</a>
 - 📧 Email: mateus-tm@live.com;
 - 📱 Você também pode me chamar no meu celular: +55 (41) 99649-7298.
 - 🌐 Conecte-se comigo no LinkedIn e WhatsApp. Estou esperando sua mensagem lá!
